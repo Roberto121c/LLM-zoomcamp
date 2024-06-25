@@ -1,1 +1,1 @@
-# mlops-zoomcamp
+# LLM-zoomcamp
